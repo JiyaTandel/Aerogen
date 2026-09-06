@@ -1,0 +1,8 @@
+﻿venv/
+*.mp4
+*.bag
+*.csv
+*.obj
+*.laz
+datasets/
+odm_*/
