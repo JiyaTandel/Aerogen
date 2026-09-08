@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+*.pt
+odm_project/
+odm_project_clean/
+*.laz
+*.ply
+*.tif
+*.tiff
+!comparison_day1_vs_day2/
