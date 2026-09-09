@@ -10,3 +10,8 @@ odm_project_clean/
 *.tif
 *.tiff
 !comparison_day1_vs_day2/
+
+*.laz
+*.las
+__pycache__/
+*.tar.gz
